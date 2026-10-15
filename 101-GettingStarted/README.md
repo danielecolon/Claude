@@ -25,7 +25,7 @@ No previous experience with Claude is required.
 TBD<!--[Claude 101: Getting Started](https://TBD)-->
 
 ### Slides
-TBD<!--[Claude_101-GettingStarted.pdf](TBD.pdf)-->
+[Claude101.pdf](Claude101.pdf)
 
 ### Tags
 Conversational AI<br />
