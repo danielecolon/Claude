@@ -27,7 +27,7 @@ No previous experience with Claude is required.
 TBD<!--[Claude 102: Personalization and Workspace](https://TBD)-->
 
 ### Slides
-TBD<!--[Claude_102-Personalization_n_Workspace.pdf](TBD.pdf)-->
+[Claude102.pdf](Claude102.pdf)
 
 ### Tags
 Conversational AI<br />
